@@ -9,6 +9,5 @@ def subtract(a, b):
 print(subtract(5, 5))
 
 def multiply(a, b):
-    return a * b
+    print(a * b)
 
-print(multiply(5, 5))
